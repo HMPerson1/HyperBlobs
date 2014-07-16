@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<level
+    major="01"
+    minor="01">
+    <blob>
+        <x>100</x>
+        <y>100</y>
+    </blob>
+    <wall>
+        <x>480</x>
+        <y>360</y>
+        <hWidth>480</hWidth>
+        <hHeight>1</hHeight>
+    </wall>
+    <wall>
+        <x>480</x>
+        <y>0</y>
+        <hWidth>480</hWidth>
+        <hHeight>1</hHeight>
+    </wall>
+    <wall>
+        <x>0</x>
+        <y>180</y>
+        <hWidth>1</hWidth>
+        <hHeight>180</hHeight>
+    </wall>
+    <wall>
+        <x>960</x>
+        <y>180</y>
+        <hWidth>1</hWidth>
+        <hHeight>180</hHeight>
+    </wall>
+    <spke>
+        <x>300</x>
+        <y>200</y>
+    </spke>
+    <spke>
+        <x>175</x>
+        <y>250</y>
+    </spke>
+</level> 
